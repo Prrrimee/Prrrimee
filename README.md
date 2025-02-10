@@ -1,4 +1,4 @@
-# 👨‍💻 Hey there, I'm Suraj!  
+# 👨‍💻 Hey , I'm Suraj!  
 
 🚀 **Ethical Hacker** 
 🔎 Passionate about **Cybersecurity, Pentesting, and OSINT**  
